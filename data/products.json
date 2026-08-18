@@ -1,0 +1,12 @@
+{
+  "firstProduct": {
+    "name": "Áo thun nam",
+    "expectedCartQuantity": "1",
+    "expectedDoubleQuantity": "2"
+  },
+  "secondProduct": {
+    "name": "Giày sneaker",
+    "expectedCartQuantity": "1",
+    "expectedDoubleQuantity": "2"
+  }
+}

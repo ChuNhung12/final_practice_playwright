@@ -1,0 +1,14 @@
+{
+  "login": {
+    "validationError": "⚠️ Vui lòng nhập đầy đủ tài khoản và mật khẩu."
+  },
+  "checkout": {
+    "successHeading": "Đặt hàng thành công!"
+  },
+  "profile": {
+    "updateSuccess": "Cập nhật thành công!"
+  },
+  "orders": {
+    "orderNumberPrefix": "Đơn hàng #"
+  }
+}
