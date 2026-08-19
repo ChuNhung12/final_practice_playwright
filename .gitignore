@@ -10,3 +10,7 @@ node_modules/
 /playwright/.cache/
 /playwright/.auth/
 .agents/
+
+# Allure
+allure-results/
+allure-report/
